@@ -3,11 +3,11 @@
 <img align="right" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coddding">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamtoufiq&label=Profile%20views&color=0e75b6&style=flat" alt="iamtoufiq" /> </p>
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **MERN stack.**
 
 - 👨‍💻 All of my projects are available at [https://toufiq-portfolio.netlify.app/](https://toufiq-portfolio.netlify.app/)
 
-- 💬 Ask me about **react , JavaScript**
+- 💬 Ask me about **React , JavaScript**
 
 - 📫 How to reach me **iamtoufiq2@gmail.com**
 
