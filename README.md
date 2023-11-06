@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://toufiq-portfolio.netlify.app/](https://toufiq-portfolio.netlify.app/)
 
-- 💬 Ask me about **React , JavaScript**
+- 💬 Ask me about **React , JavaScript, TypeScript, Node.js**
 
 - 📫 How to reach me **iamtoufiq2@gmail.com**
 
