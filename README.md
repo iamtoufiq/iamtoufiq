@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamtoufiq&label=Profile%20views&color=0e75b6&style=flat" alt="iamtoufiq" /> </p>
 
 - 🌱 I’m currently learning **MERN stack.**
-//https://toufiq-portfolio.netlify.app/
-- 👨‍💻 All of my projects are available at [portfolio]()
+
+- 👨‍💻 All of my projects are available at [portfolio](https://toufiqchoudhari.vercel.app/)
 
 - 💬 Ask me about **React , JavaScript, TypeScript, Node.js**
 
