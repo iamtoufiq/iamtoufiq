@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN stack.**
 
-- 👨‍💻 All of my projects are available at [https://toufiq-portfolio.netlify.app/](https://toufiq-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://toufiq-posrtfolio.netlify.app/](https://toufiq-portfolio.netlify.app/)
 
 - 💬 Ask me about **React , JavaScript, TypeScript, Node.js**
 
