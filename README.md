@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN stack.**
 
-- 👨‍💻 All of my projects are available at [portfolio](https://toufiqchoudhari.vercel.app/).
+- 👨‍💻 All of my projects are available at [Portfolio](https://toufiqchoudhari.vercel.app/).
 
 - 💬 Ask me about **React , JavaScript, TypeScript, Node.js**
 
